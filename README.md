@@ -12,3 +12,6 @@ After feature engineering and data preprocessing, the dataset was divided into t
 For the implementation of the predictive model, various machine learning algorithms such as linear regression, lasso, ridge, and elastic net were used. Grid search was employed for hyperparameter tuning to optimize the model performance. However, no significant improvement was observed even after hyperparameter tuning.
 
 In conclusion, this project successfully built a predictive model to estimate the number of views for videos uploaded on the TED website. The data was cleaned, explored, and preprocessed to derive meaningful insights and create new features. Various machine learning algorithms were implemented, and though hyperparameter tuning did not yield significant improvements, the model can still serve as a valuable tool for predicting video views. The project highlights the importance of data cleaning, feature engineering, and exploratory data analysis in building effective predictive models.
+
+
+Presentation video- https://youtu.be/hNW_h103kgQ
